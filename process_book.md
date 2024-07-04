@@ -1,6 +1,6 @@
 # Process Book
 
-## 14th of May
+## 22th of May
 **Activity:** Exploring various soil health databases to investigate global soil health degeneration.
 
 **Details:** I explored several databases and attempted to visualize data points where soil samples were taken globally.
@@ -9,7 +9,7 @@
 
 **Lessons Learned:** Managed to create some visualizations of global soil sample points.
 
-## 15th of May
+## 23th of May
 **Activity:** Formulating a research question based on the soil health dataset.
 
 **Details:** Attempted to create a research question related to cover crops and soil health or tilling and soil health. However, data columns were not linked within the same rows, causing scattered information.
@@ -18,7 +18,7 @@
 
 **Lessons Learned:** Realized that comprehensive databases often contain scattered data, making it difficult to draw conclusions.
 
-## 14th of May
+## 24th of May
 **Activity:** Downloading ArcGIS and exploring GIS for Python.
 
 **Details:** Installed ArcGIS on my MacBook by mirroring a Windows environment and read API documentation for GIS.
